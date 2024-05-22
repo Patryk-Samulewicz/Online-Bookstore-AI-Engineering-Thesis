@@ -10,7 +10,7 @@ Due to copyright laws and university regulations, the repository does not contai
 
 ## PL: Opis pracy
 
-Celem pracy było zaprojektowanie i zaimplementowanie księgarni internetowej umożliwiającej automatyczne generowanie opisów książek przez wykorzystanie sztucznej inteligencji. Dodatkowo imoplementacji funkcji sugerowania czytelnikowi kolejnych książek przez AI na podstawie jego historii zakupowej i jego opinii.
+Celem pracy było zaprojektowanie i zaimplementowanie księgarni internetowej umożliwiającej automatyczne generowanie opisów książek przez wykorzystanie sztucznej inteligencji. Dodatkowo zaimplementowana została funkcja sugerowania czytelnikowi kolejnych książek przez AI na podstawie jego historii zakupowej i jego opinii.
 
 ### Wykorzystane technologie
 - php 8, Symfony 7, MySQL
@@ -20,6 +20,7 @@ Celem pracy było zaprojektowanie i zaimplementowanie księgarni internetowej um
 - GPT API, Cloudinary cloud
 - Docker, php Unit
 
+### Szczegółowy opis.....
 
 
 ## ENG: Thesis description 
@@ -34,3 +35,5 @@ The aim of the work was to design and implement an online bookstore enabling aut
 - Symfony Messenger, Doctrine
 - GPT API, Cloudinary cloud
 - Docker, php Unit
+
+### Detailed description...
